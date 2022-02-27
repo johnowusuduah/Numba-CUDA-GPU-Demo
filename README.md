@@ -1,4 +1,4 @@
-# Numba-CUDA-GPU-Demo
+# Numba CUDA GPU Demonstration
 
 This is a demonstration of how to use Numba library to do CUDA GPU programming.
 
